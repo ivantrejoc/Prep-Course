@@ -1,0 +1,17 @@
+variables: Son pedazos de código que sirven para almacenar algo para usarlo luego, entonces luego en vez de invocar ese algo,
+invocamos a la variable que corresponda
+
+Strings: Son variables de tipo cadena de caracteres (letras, números o símbolos), deben ir entre comillas simples o dobles.
+
+Funciones: Son pedazos de código que se agrupan con un nombre para poder ejecutarlo después.
+
+Argumentos: Es la variable que se introduce entre paréntesis de una función para poder utilizarlo dentro de la función.
+
+return: Es la declaración que permite retornar algo que se encuentre dentro de una función, así los datos escapan de la función y pueden ser usados
+nuevamente.
+
+Declaraciones if: Son statements que controlan el flujo de operaciones, si el statement if es true, se desarrolla una acción o un cuadro de 
+acción, si es false el programa sigue de largo.
+
+Valores Booleanos: Son valores binarios derivados de la Lógica de Boole, pueden ser 0 y 1, abierto o cerrado, activo o inactivo, verdadero o falso.
+
