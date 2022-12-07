@@ -1,0 +1,18 @@
+h1{ 
+    color: darkgreen;
+}
+img{ 
+    width: 400px;
+}
+#thirdDiv{ 
+    height: 600px;
+    width: 500px;
+    background-color: cornflowerblue;
+    padding: 50px;
+    border-radius: 30 px;
+    border-color: black;
+}
+#sapnId{
+    font-size: 18px;
+    margin: 50px;
+}
